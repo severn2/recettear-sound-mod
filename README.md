@@ -1,5 +1,5 @@
-replaces the recettear bgm with skullgirls ost tracks
-silences all japanese voice-overs
+- replaces the recettear bgm with skullgirls ost tracks
+- silences all japanese voice-overs
 
 ### install
 - make a copy of your game folder "bgm" (name it something like bgm_bak)
